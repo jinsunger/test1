@@ -2,36 +2,36 @@
 
 #### 介绍
 ssm的各种项目源码，带项目的视频教程，非常详细的讲解ssm的开发。
+视频讲解了，视频也是开源的，具体的可以加我微信：kaifa996 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/111726_e7777c38_7604956.jpeg "1222.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/111609_e5fe78e8_7604956.jpeg "5.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/111629_9c132c4e_7604956.jpeg "6.jpg")
 
-#### 软件架构
-软件架构说明
+项目正常运行。
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+系统的安装、部署教程可以见视频。
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+系统的使用说明，视频已经讲解的很详细。
+### 
+#### 系统介绍
 
 
-#### 码云特技
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/112133_7add9070_7604956.jpeg "7.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/112146_e3620073_7604956.jpeg "8.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/112155_99ed8b65_7604956.jpeg "9.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/112203_6bff94e7_7604956.jpeg "10.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/112213_2e90255f_7604956.jpeg "11.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/112227_a15992f5_7604956.jpeg "12.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/112236_4e203224_7604956.jpeg "143.jpg")
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+ **### 技术交流群：** 
+
+
+加我微信：kaifa996
+
+可拉群交流。
